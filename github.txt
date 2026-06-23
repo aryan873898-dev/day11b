@@ -1,0 +1,14 @@
+git init
+git status
+
+git config user.name "aryan873898-dev"
+git config user.email "aryan873898@gmail.com"
+
+git remote add origin https://github.com/aryan873898-dev/day11b.git
+
+git config --list
+git add .
+
+git status
+
+git commit .m "First File added"
